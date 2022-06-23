@@ -2,10 +2,11 @@
 
 - 🔭 full-time estudando para melhorar as skills 
 - 🌱 Estudando HTML | CSS | JAVASCRIPT | JAVA
+##
 <div align="center">
   <a href="https://github.com/davicoelhos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davicoelho&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicoelhos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davicoelho&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicoelhos&layout=compact&langs_count=7&theme=dark"/>
 
   
   
@@ -16,6 +17,7 @@
  
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+  ##
 
   
 </div>
